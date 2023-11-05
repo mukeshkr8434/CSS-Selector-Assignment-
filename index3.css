@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    text-align: center;
+}
+.button{
+    background-color: royalblue;
+    border: none;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 18px 45px;
+    color: white;
+    font-size: 20px;
+    border-radius: 3%;
+}
+.span{
+    display: flex;
+    justify-content: center;
+}
+button:hover{
+box-shadow: 10px 8px 8px darkgray;
+cursor: pointer;
+}
